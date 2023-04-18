@@ -19,8 +19,8 @@ em casos como esse, voce apenas rode o programa denovo.
 
 ```$sudo apt install git
    $git clone URL
-   $sudo apt install python3
-   ``` 
+   $sudo apt install python3 
+``` 
 
 (PS:recomendo que instale a última versão do python)
 
