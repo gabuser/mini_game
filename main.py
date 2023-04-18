@@ -31,7 +31,7 @@ def jogo(max_tentativas=6, num_min=1, num_max=10):
 
         except TypeError:
             print("Não foi possível tranformar em Inteiro. Execute a função novamente")
-            break
+            break # quebra de loop
 
         # :: Verificação de valores ( numero igual = vitória; máximo de tentativas = derrota )
         if jogador == n:
