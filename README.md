@@ -33,6 +33,3 @@ No windows, o Python pode ser instalado através do executável no site [python]
 ## Solução de erros.
 Em caso de erro, verifique se as respostas estão escritas corretamente (no caso, em formato de inteiro), sem espaço.
 
-
-> **NOTA**: Não há nenhum tratamento de erro neste código.
-Em casos como esse, apenas rode o programa novamente.
