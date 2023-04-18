@@ -1,5 +1,4 @@
 import random
-import sys
 
 # == > jogo: Função principal do jog
 def jogo(max_tentativas=6, num_min=1, num_max=10):
