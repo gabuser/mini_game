@@ -15,6 +15,7 @@ se trata de um projeto de um mini jogo, onde o usuário precisa tentar achar o n
 - Python (3.6+)
 - Git
 
+
 **Distribuições Linux** 
 > **NOTA**: O comando de instalação pode variar de acordo com a distro.
 
@@ -25,7 +26,6 @@ Clone o repositório atual com o seguinte comando:
 ```sh
 $ git clone URL
 ``` 
-
 **Windows**
 
 No windows, o Python pode ser instalado através do executável no site [python](https://www.python.org/) ou através do Console (via choco ou aka-ms)
