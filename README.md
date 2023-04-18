@@ -1,26 +1,38 @@
-# adivinhação 
+# Adivinhação
 
 
-> um simples projeto em py
+> Um simples jogo distrativo feito em python
 
 para esse projeto você apenas precisa obter o ambiente python instalado em sua máquina.
 
 se trata de um projeto de um mini jogo, onde o usuário precisa tentar achar o numero
 
-(ps: como eu não coloquei tratamento de erros o programa pode quebrar caso voce digite um
-valor inválido como uma string ou float).
-
-em casos como esse, voce apenas rode o programa denovo.
 ---
 
-## **instalação**
+## **Instalação**
 
-**Ubuntu Based** 
+#### Requisitos
+- Python (3.6+)
+- Git
 
-```$sudo apt install git
-   $git clone URL
-   $sudo apt install python3
+**Distribuições Linux** 
+> **NOTA**: O comando de instalação pode variar de acordo com a distro.
+
+- **Ubuntu-based**: ```$ sudo apt install git python3```
+- **Arch-based**: `$ sudo pacman install git python3`
+
+Clone o repositório atual com o seguinte comando: 
+```sh
+$ git clone URL
 ``` 
-(PS:recomendo que instale a última versão do python)
 
-voce pode instalar pelo terminal ou em seu site oficial [python](https://www.python.org/)
+**Windows**
+
+No windows, o Python pode ser instalado através do executável no site [python](https://www.python.org/) ou através do Console (via choco ou aka-ms)
+
+## Solução de erros.
+Em caso de erro, verifique se as respostas estão escritas corretamente (no caso, em formato de inteiro), sem espaço.
+
+
+> **NOTA**: Não há nenhum tratamento de erro neste código.
+Em casos como esse, apenas rode o programa novamente.
